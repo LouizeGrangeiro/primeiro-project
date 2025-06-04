@@ -45,10 +45,10 @@ A cada projeto, uma nova conquista pessoal, um bug vencido e um passo a mais rum
 
 ## 🏆 Conquistas até agora
 
-✅ input(), listas e loops  
-✅ Git configurado e primeiro push  
-✅ Primeiro README com orgulho 😻  
-✅ Rotina de estudos com foco e propósito  
+✔️ input(), listas e loops
+✔️ Git configurado e primeiro push
+✔️ Primeiro README com orgulho 😻
+✔️ Rotina de estudos com foco e propósito
 ☕ Café + código = produtividade
 
 ---
